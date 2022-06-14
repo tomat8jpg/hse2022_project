@@ -1,6 +1,7 @@
 # hse2022_project
 
 Ссылка на коллаб: https://colab.research.google.com/drive/1OlXW54U6pglytdSzLrwvx5x574kZYRtY?usp=sharing  
+Бонус https://colab.research.google.com/drive/12a6mE6ks3lhP0cGXZOJmT61yTvc0Ajve?usp=sharing  
 # Сводная таблица. 
 | Название вида | H. aestuarii | Н. beimenensis | H. chromatireducens | H. elongatae | H. socia |
 | :---: | :---: | :---: | :---: | :---: | :---: |
