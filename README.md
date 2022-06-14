@@ -28,74 +28,23 @@
 
 # Таблица с информацией по выбранным кластерам  
 
-| Кластер | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Кластер | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | сколько генов в кластере | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
-| функция этих генов | lysine exporter | L,D-transpeptidase | GlsB/YeaQ/YmgE | CDP-alcohol phosphatidyltransferase | hypothetical protein | efflux RND transporter periplasmic adaptor subunit | aminoacyl-tRNA hydrolase | acyl-CoA dehydrogenase | exodeoxyribonuclease V subunit alpha | peroxide stress protein YaaA |
+| функция этих генов | UMP kinase | (2E,6E)-farnesyl diphosphate synthase | RNA polymerase sigma factor RpoD | (2Fe-2S)-binding protein | polyhydroxyalkanoate synthesis repressor PhaR | 50S ribosomal protein L34 | ribonuclease P protein component | exodeoxyribonuclease V subunit alpha |
 
-# Таблицы по каждому кластеру:
-| **Кластер 1** |  H. aestuarii | Н. beimenensis | H. chromatireducens | H. elongatae | H. socia |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| расположение Z-DNA относительно гена, вошедшего в данный кластер | upstream | downstream | downstream | upstream | downstream |
-| Z-DNA score | 884 | 701 | 2752 | 2173 | 1139 |
 
-| **Кластер 2** |  H. aestuarii | Н. beimenensis | H. chromatireducens | H. elongatae | H. socia |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| расположение Z-DNA относительно гена, вошедшего в данный кластер | downstream | downstream | upstream | upstream | downstream |
-| Z-DNA score | 735 | 981 | 884 | 844 | 2752 |
-
-| **Кластер 3** |  H. aestuarii | Н. beimenensis | H. chromatireducens | H. elongatae | H. socia |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| расположение Z-DNA относительно гена, вошедшего в данный кластер | downstream | upstream | upstream | downstream | upstream |
-| Z-DNA score | 908 | 1117 | 908 | 1403 | 981 |
-
-| **Кластер 4** |  H. aestuarii | Н. beimenensis | H. chromatireducens | H. elongatae | H. socia |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| расположение Z-DNA относительно гена, вошедшего в данный кластер | upstream | downstream | downstream | upstream | downstream |
-| Z-DNA score | 884 | 884 | 884 | 884 | 1677 |
-
-| **Кластер 5** |  H. aestuarii | Н. beimenensis | H. chromatireducens | H. elongatae | H. socia |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| расположение Z-DNA относительно гена, вошедшего в данный кластер | upstream | upstream | downstream | downstream | upstream |
-| Z-DNA score | 3429 | 9301 | 1848 | 1281 | 1821 |
-
-| **Кластер 6** |  H. aestuarii | Н. beimenensis | H. chromatireducens | H. elongatae | H. socia |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| расположение Z-DNA относительно гена, вошедшего в данный кластер | downstream | downstream | upstream | upstream | downstream |
-| Z-DNA score | 4546 | 2766 | 818 | 3738 | 1302 |
-
-| **Кластер 7** |  H. aestuarii | Н. beimenensis | H. chromatireducens | H. elongatae | H. socia |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| расположение Z-DNA относительно гена, вошедшего в данный кластер | upstream | upstream | upstream | downstream | downstream |
-| Z-DNA score | 2752 | 507 | 1801 | 908 | 28780 |
-
-| **Кластер 8** |  H. aestuarii | Н. beimenensis | H. chromatireducens | H. elongatae | H. socia |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| расположение Z-DNA относительно гена, вошедшего в данный кластер | upstream | upstream | downstream | upstream | upstream |
-| Z-DNA score | 884 | 571 | 908 | 13714 | 884 |
-
-| **Кластер 9** |  H. aestuarii | Н. beimenensis | H. chromatireducens | H. elongatae | H. socia |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| расположение Z-DNA относительно гена, вошедшего в данный кластер | upstream | downstream | upstream | upstream | upstream |
-| Z-DNA score | 8486 | 1220 | 3429 | 981 | 1229 |
-
-| **Кластер 10** |  H. aestuarii | Н. beimenensis | H. chromatireducens | H. elongatae | H. socia |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| расположение Z-DNA относительно гена, вошедшего в данный кластер | downstream | downstream | downstream | upstream | downstream |
-| Z-DNA score | 651 | 981 | 784 | 1738 | 3429 |
-
-Множественное белковое выравнивание для каждого выбранного кластера лежит по [ссылке](https://github.com/tomat8jpg/hse2022_project/tree/main/clustalW)
+Множественное белковое выравнивание для каждого выбранного кластера лежит по [ссылке](https://github.com/tomat8jpg/hse2022_project/tree/main/clusters/raw)
 
 
 Визуализация расположения участков Z-DNA для каждого выбранного кластера  
-![image](https://user-images.githubusercontent.com/60805733/173441966-18538f96-b2ea-465e-a538-a25c65fd40be.png)
-![image](https://user-images.githubusercontent.com/60805733/173441983-a5865c3a-5d4e-4c08-8893-de7986994e87.png)
-![image](https://user-images.githubusercontent.com/60805733/173442030-cc4ce2c8-b15c-4367-a4b8-3e9f43b81edf.png)
-![image](https://user-images.githubusercontent.com/60805733/173442100-9bf53a33-2b96-492c-a47b-72589acbaef4.png)
-![image](https://user-images.githubusercontent.com/60805733/173442134-c297cb80-ebb4-4861-bbd8-78adefb313da.png)
-![image](https://user-images.githubusercontent.com/60805733/173442194-1d00acb4-a5e4-42ac-99a4-58c5ad89a3a1.png)
-![image](https://user-images.githubusercontent.com/60805733/173442218-e6460945-4b6e-40dc-ad87-d3f00366b026.png)
-![image](https://user-images.githubusercontent.com/60805733/173442248-a8795b90-e6cd-4b00-b3e1-e0895e20a3f1.png)
-![image](https://user-images.githubusercontent.com/60805733/173442295-07977196-f959-4195-98be-c8580b7e23eb.png)
-![image](https://user-images.githubusercontent.com/60805733/173442331-4727b4b7-868a-401f-ad43-46a1259dd691.png)
+![image](https://user-images.githubusercontent.com/60805733/173688229-a0d56dcd-9657-4cf4-9c9c-6129c8c55b4b.png)
+![image](https://user-images.githubusercontent.com/60805733/173688248-ca22b08c-c570-43eb-89ef-524b9ea3fe9c.png)
+![image](https://user-images.githubusercontent.com/60805733/173688276-97ca5af5-5e3b-4c2f-b1c4-f8db3a78f0a8.png)
+![image](https://user-images.githubusercontent.com/60805733/173688298-ebbad560-8673-4e43-a8f7-47c2ce28e8ac.png)
+![image](https://user-images.githubusercontent.com/60805733/173688328-69314c43-4e2e-4f98-b149-4e717f012e6a.png)
+![image](https://user-images.githubusercontent.com/60805733/173688351-9069d10c-a725-48ba-8a54-870c58dc4cfd.png)
+![image](https://user-images.githubusercontent.com/60805733/173688367-54d9af0c-ad00-485b-be38-49329e1a293e.png)
+![image](https://user-images.githubusercontent.com/60805733/173688401-ea3b4a07-ee79-4af2-a8df-a153daa59f90.png)
+
 
